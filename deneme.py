@@ -1,1 +1,0 @@
-print("Cesur <3 Denizhan")
